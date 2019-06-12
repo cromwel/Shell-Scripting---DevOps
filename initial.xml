@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<appender name="http" class="io">
+ 	<minLevel>WARN</minLevel>
+	<filter class="cjr”></filter>
+</appender>
